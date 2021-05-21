@@ -1,0 +1,47 @@
+body{
+  overflow-x: hidden;
+  }
+.aboutbox{
+  width:101%;
+  padding-top: 4%;
+  padding-bottom: 2%;
+  color: white;
+  background-color: #4A154A;
+}
+#collegename{
+  text-align: center;
+}
+#aboutcollege{
+  margin-top: 30px;
+  text-align: center;
+}
+.readmorebtn{
+  border-color:white;
+  color: white;
+  margin:auto !important;
+}
+.readmorebtn:hover{
+  background-color: yellow;
+  color:black;
+  border:0px;
+}
+.program{
+  margin-top:3%;
+}
+#asmtofferedprogram{
+  text-align:center;
+  text-transform:uppercase;
+}
+.circle{
+  background-color:#4A154A;
+  color:white;
+  height:220px;
+  width:220px;
+  font-weight:bold;
+  padding:28% 10%;
+  border-radius:150%;
+  text-align:center;
+}
+.circle:hover{
+  background-color:#FFAB00;
+}
